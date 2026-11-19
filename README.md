@@ -49,6 +49,8 @@ Participated in and successfully completed the Thailand Qualifier event.
 **Business Processes in SAP S/4HANA Sourcing and Procurement**  
 SAP Learning | November 2026
 
+[Verify SAP Learning Badge](https://badger.learning.sap.com/verify/xineb-pygis-fitid)
+
 ## 🎓 Education
 
 **Bachelor of Information and Communication Technology**  
