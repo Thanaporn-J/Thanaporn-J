@@ -47,8 +47,9 @@ Participated in and successfully completed the Thailand Qualifier event.
 *Participation certificate; not a winner/ranking or advancement award.*
 
 **Business Processes in SAP S/4HANA Sourcing and Procurement**  
-SAP Learning | November 2026  
-Certificate format: **PDF** (document link to be added after uploading the file)
+SAP Learning | **8 November 2026** | Course Completion — Beginner Level  
+[Verify Certificate with SAP Learning](https://badger.learning.sap.com/verify/xineb-pygis-fitid-nutyv-rehyh)  
+PDF certificate available; repository PDF upload pending.
 
 ## 🎓 Education
 
