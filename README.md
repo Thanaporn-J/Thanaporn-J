@@ -41,7 +41,7 @@ A **desk-based simulation** of SAP S/4HANA Purchase Requisition test design, wit
 
 ## 🏆 Certifications & Testing Activities
 
-**World's Best Tester 2026 — Thailand Qualifier**  
+[**World's Best Tester 2026 — Thailand Qualifier**](WBT2026%20-%20TH%20Qualifier%20-%20Thanaporn%20Jindamanee.jpg)  
 Certificate of Participation | **15 November 2026**  
 Participated in and successfully completed the Thailand Qualifier event.  
 *Participation certificate; not a winner/ranking or advancement award.*
